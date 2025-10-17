@@ -69,7 +69,7 @@ Streamlined hiring through automated resume screening and candidate ranking.
 
 ## 🏆 Achievements  
 - 🥇 **1st Place – IIT Roorkee Productathon (Heurist Track)** for *SciSPY*  
-- 💡 Solved **200+ LeetCode Problems** (Arrays, Trees, DP)  
+- 💡 Solved various LeetCode Problems (Arrays, Trees, DP)  
 - 📜 Certified in **Gen AI (NLP)**, **Python**, **ML by Google**, and **Data Visualization (Tata Forage)**  
 
 ---
@@ -107,7 +107,7 @@ Streamlined hiring through automated resume screening and candidate ranking.
 ## 🧩 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Disha_Gupta?theme=dark&font=Baloo%20Chettan%202&ext=contest" alt="LeetCode Stats Card" />
+  <img src="https://leetcard.jacoblin.cool/disha_gupta1234?theme=dark&font=Baloo%20Chettan%202&ext=contest" alt="LeetCode Stats Card" />
 </p>
 
 
