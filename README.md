@@ -72,6 +72,16 @@ Streamlined hiring through automated resume screening and candidate tracking.
 
 ---
 
+## 📜 Certifications  
+
+- 🎓 **Gen AI: Foundational Models for NLP and Language Understanding** – *Coursera (June 2024)*  
+- 💻 **Programming with HTML and CSS** – *Coursera (May 2024)*  
+- 🐍 **Programming for Everybody (Getting Started with Python)** – *Coursera (September 2024)*  
+- 🤖 **The Nuts and Bolts of Machine Learning** – *Google (April 2025)*  
+- 📊 **Tata Data Visualization: Empowering Business with Effective Insights** – *Forage (June 2025)*  
+
+---
+
 ## 🎓 Education  
 🎓 **B.Tech (Hons.) – AI & Analytics**, GLA University, Mathura (2023–2027)  
 📊 CGPA: **7.9 / 10**  
