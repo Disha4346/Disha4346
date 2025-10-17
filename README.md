@@ -2,7 +2,7 @@
 
 <!-- 🖼️ Replace with your own uploaded banner image link -->
 <p align="center">
-  <img src="https://github.com/Disha4346/Disha4346/blob/main/disha-banner.jpg" width="800" alt="Disha Gupta Banner"/>
+  <img src="https://github.com/Disha4346/Disha4346/blob/main/GithubBanner.png" width="800" alt="Disha Gupta Banner"/>
 </p>
 
 <p align="center">
