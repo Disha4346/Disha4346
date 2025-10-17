@@ -104,10 +104,12 @@ Streamlined hiring through automated resume screening and candidate ranking.
 
 ---
 
-## 🧩 LeetCode Badges  
+## 🧩 LeetCode Stats
+
 <p align="center">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=disha_gupta1234&theme=dark&animated=true" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/Disha_Gupta?theme=dark&font=Baloo%20Chettan%202&ext=contest" alt="LeetCode Stats Card" />
 </p>
+
 
 ---
 
