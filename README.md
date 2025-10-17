@@ -1,8 +1,8 @@
 <!-- 🌸 Interactive GitHub Profile README for Disha Gupta -->
 
+<!-- 🖼️ Replace with your own uploaded banner image link -->
 <p align="center">
-  <!-- 🖼️ Replace with your own uploaded banner image link -->
-  <img src="https://github.com/Disha4346/Disha4346/blob/main/disha-banner.jpg" alt="Disha_Gupta_Banner" width="100%">
+  <img src="https://github.com/Disha4346/Disha4346/blob/main/disha-banner.jpg" width="800" alt="Disha Gupta Banner"/>
 </p>
 
 <p align="center">
