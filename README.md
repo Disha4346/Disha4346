@@ -103,7 +103,7 @@ Streamlined hiring through automated resume screening and candidate tracking.
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Light.svg" height="45" width="45" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://leetcode.com/Disha_Gupta/" target="_blank">
+  <a href="https://leetcode.com/u/disha_gupta1234/" target="_blank">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LeetCode-Light.svg" height="45" width="45" />
   </a>
 </p>
