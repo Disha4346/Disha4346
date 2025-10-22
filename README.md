@@ -1,5 +1,3 @@
-<!-- 🌸 Interactive GitHub Profile README for Disha Gupta -->
-
 <!-- 🖼️ Custom Banner -->
 <p align="center">
   <img src="https://github.com/Disha4346/Disha4346/blob/main/GithubBanner.png" width="850" alt="Disha Gupta Banner"/>
